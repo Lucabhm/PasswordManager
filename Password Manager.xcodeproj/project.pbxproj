@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		242FE4832E00C2E700645A93 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 242FE4822E00C2DC00645A93 /* .gitignore */; };
+		242FE4852E00C45900645A93 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 242FE4842E00C44800645A93 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		242FE4592DFF668400645A93 /* Password ManagerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Password ManagerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		242FE4632DFF668400645A93 /* Password ManagerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Password ManagerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		242FE4822E00C2DC00645A93 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		242FE4842E00C44800645A93 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,6 +87,7 @@
 				242FE4662DFF668400645A93 /* Password ManagerUITests */,
 				242FE44D2DFF668200645A93 /* Products */,
 				242FE4822E00C2DC00645A93 /* .gitignore */,
+				242FE4842E00C44800645A93 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -218,6 +221,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				242FE4852E00C45900645A93 /* README.md in Resources */,
 				242FE4832E00C2E700645A93 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
