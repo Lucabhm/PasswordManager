@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+build/
+DerivedData/
+*.xcuserdatad
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xccrashpoint
+
+# User-spezifische Einstellungen
+*.xcworkspace
+!*/xcshareddata/
+xcuserdata/
+
+# Swift Package Manager
+/.build/
+/Packages/
+/Package.resolved
+
+# CocoaPods
+Pods/
+/Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# SwiftPM Xcode project
+.swiftpm/xcode/package.xcworkspace/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# Sonstige
+*.moved-aside
+*.swp
+*.lock
+
